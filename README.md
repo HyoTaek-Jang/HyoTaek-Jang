@@ -13,6 +13,7 @@
 ### 🎉Award
 2019 Goorm LevUpThon 해커톤 구름 특별상 수상 ( FE )</br>
 제 1회 OP.GG 배 정보통신 써-비스 제작 경진대회 종합 3위, 모바일 1위 ( BE )</br>
+2021 과학기술정보통신부주관 피우다 프로젝트 공모전 장려상 ( BE )</br>
 
 ### 🎈Conatct</br>
 Gmail : hyotaek9812@gmail.com</br>
